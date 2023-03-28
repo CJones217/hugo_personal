@@ -1,0 +1,4 @@
+baseURL = 'https://www.collinjones.xyz/'
+languageCode = 'en-us'
+title = 'The Collin Jones Site'
+theme = 'risotto'
