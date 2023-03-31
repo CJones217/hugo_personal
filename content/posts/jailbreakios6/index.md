@@ -42,4 +42,4 @@ Joking aside this was pretty fun! Adding music from my computer without using IT
 
 The whole process reminded me of this reply I found on Reddit
 
-![how safe is jailbreaking](/img/how_safe_is_jailbreaking.png)
+![how safe is jailbreaking](images/how_safe_is_jailbreaking.png)

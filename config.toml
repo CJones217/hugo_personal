@@ -2,3 +2,16 @@ baseURL = 'https://www.collinjones.xyz/'
 languageCode = 'en-us'
 title = 'The Collin Jones Site'
 theme = 'risotto'
+copyright = "Copyright 2020-2023 [Collin Jones](https://collinjones.xyz)"
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params.about]
+title = "Take a Break From Meatspace"
+
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/CJones217"
