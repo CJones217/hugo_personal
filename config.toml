@@ -10,7 +10,6 @@ sectionPagesMenu = "main"
 [params.about]
 title = "Take a Break From Meatspace"
 
-
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"

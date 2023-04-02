@@ -5,6 +5,11 @@ date = 2022-10-02
 
 # Blogs
 
+[refined blog](https://refined.blog/)
+- A collection of different blogs
+
+[Xe Laso](https://xeiaso.net/)
+
 [Mark Thomas Miller](https://mtm.dev/)
 
 [Jayden Bulexa](https://www.jaydenb.com/)
@@ -44,6 +49,8 @@ date = 2022-10-02
 
 [Tom Fasano](https://tomfasano.net/)
 
+[Tom Fasano the typewriter journalist](https://tomfasano.com/)
+
 [Brad](https://tdarb.org/)
 - UX designer / developer passionate about usability and software freedom.
 
@@ -52,6 +59,11 @@ date = 2022-10-02
 
 [Seirdy](https://seirdy.one/)
 - Security, privacy, and software freedom
+
+[Huan Truong](https://www.tnhh.net/)
+
+[Chris Partridge](https://chris.partridge.tech/)
+- security research guy
 
 # Tech
 
@@ -63,6 +75,8 @@ date = 2022-10-02
 
 [Auto Tools](https://www.lrde.epita.fr/~adl/autotools.html)
 - Tutorial for using GNU autotools
+
+[Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information)
 
 [The GNU Awk User’s Guide](https://www.gnu.org/software/gawk/manual/gawk.html)
 
@@ -87,6 +101,9 @@ date = 2022-10-02
 [No Tech Magazine](https://www.notechmagazine.com/)
 
 [Chaos Computer Club](https://www.ccc.de/en)
+
+[Node!](https://n-o-d-e.net/)
+- Cool raspberry pi projects and more
 
 # Videogames
 
@@ -124,3 +141,7 @@ date = 2022-10-02
 
 [Browserling](https://www.browserling.com/)
 - Online cross-browser testing
+
+[Hacking Exposed](https://www.hecfblog.com/)
+- Computer Forensics Blog
+- looks dead but still has good info
