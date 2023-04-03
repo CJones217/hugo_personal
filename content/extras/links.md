@@ -1,6 +1,8 @@
 +++
+author = "Collin"
 title = "Cool spots around the World Wide Web"
 date = 2022-10-02
+description = "Links I have collected during my time on the web"
 +++
 
 # Blogs

@@ -1,5 +1,5 @@
 +++
-auther = "Collin"
+author = "Collin"
 title = "2023 Media List"
 date = 2023-01-20
 description = "This is a list of media I have finished in 2023"

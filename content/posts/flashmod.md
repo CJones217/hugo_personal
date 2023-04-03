@@ -19,9 +19,3 @@ Having a device just for music means I won't be using my phone for listening to 
 
 taking apart a used Ipod and fixing it up is fun!
 
-
-
-- talk about flash modding
-- using linux to add music
-- getting music from the library
-- eventaully using rockbox 
