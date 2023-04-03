@@ -65,6 +65,12 @@ date = 2022-10-02
 [Chris Partridge](https://chris.partridge.tech/)
 - security research guy
 
+[Connor Edwards](https://cedwards.xyz/)
+
+[Michael Stapelberg](https://michael.stapelberg.ch/)
+
+[Jacob Smith](https://jacobwsmith.xyz/)
+
 # Tech
 
 [Vinafix](https://vinafix.com/)
@@ -104,6 +110,10 @@ date = 2022-10-02
 
 [Node!](https://n-o-d-e.net/)
 - Cool raspberry pi projects and more
+
+[very cool eink newspaper project](https://www.gregraiz.com/i-made-an-eink-newspaper/)
+
+[vim bindings cheat sheet](https://hea-www.harvard.edu/~fine/Tech/vi.html)
 
 # Videogames
 
@@ -145,3 +155,5 @@ date = 2022-10-02
 [Hacking Exposed](https://www.hecfblog.com/)
 - Computer Forensics Blog
 - looks dead but still has good info
+
+[networking books](https://mwl.io/nonfiction/networking)
