@@ -1,7 +1,7 @@
 +++
 author = "Collin"
 title = "CTF Placements"
-description = "A list of some of my best CTF placements"
+description = "A list of some of my CTF placements"
 date  = 2023-06-26
 +++
 
