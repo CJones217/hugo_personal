@@ -6,7 +6,7 @@ jobs:
     steps:
       - uses: snow-actions/tweet@v1.4.0
         with:
-          status: NEW POST FROM GITHUB!
+          status: "NEW POST FROM GITHUB!"
         env:
           CONSUMER_API_KEY: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           CONSUMER_API_SECRET_KEY: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
