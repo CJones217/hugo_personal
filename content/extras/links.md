@@ -132,6 +132,12 @@ description = "Links I have collected during my time on the web"
 
 # Hack the Planet
 
+[Hacker Manifesto](http://www.phrack.org/issues/7/3.html#article)
+
+[Hacker Ethic](http://www.catb.org/jargon/html/H/hacker-ethic.html)
+
+[disclose.io](https://disclose.io/)
+
 [Security in a Box](https://securityinabox.org/en/)
 - Digital security tools and tactics
 
