@@ -1,7 +1,7 @@
 +++
 author = "Collin"
 title = "Hyprland key bindings"
-description = "all my ket bindings while using hyprland. Could change later"
+description = "All my key bindings while using hyprland. Could change later"
 +++
 
 modkey = windows button or something similar
