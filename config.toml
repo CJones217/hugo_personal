@@ -2,7 +2,7 @@ baseURL = 'https://www.collinjones.xyz/'
 languageCode = 'en-us'
 title = 'Collin Jones'
 theme = 'risotto'
-copyright = "Copyright 2020-2023 [Collin Jones](https://collinjones.xyz)"
+copyright = "Copyright 2020-2024 [Collin Jones](https://collinjones.xyz)"
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
