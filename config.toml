@@ -14,3 +14,8 @@ title = "Take a Break From Meatspace"
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/CJones217"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/@duckycorner"
