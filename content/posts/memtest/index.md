@@ -20,4 +20,4 @@ After running all the tests (you need to go into the settings to turn all of the
 
 I bought a new pair of memory sticks (exact same as the old pair just made this year) and running memtest shows that everything works.
 
-[memtest](images/memtest.jpeg)
+![memtest](images/memtest.jpeg)
