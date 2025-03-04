@@ -2,8 +2,8 @@ baseURL = 'https://www.collinjones.xyz/'
 title = 'Collin Jones'
 theme = 'risotto'
 copyright = "Copyright 2020-2025 [Collin Jones](https://collinjones.xyz)"
-languageCode = "en"
-DefaultContentLanguage = "en"
+# languageCode = "en"
+# DefaultContentLanguage = "en"
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
