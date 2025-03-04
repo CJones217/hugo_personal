@@ -60,7 +60,7 @@ I also made a couple IP groups
 5. BLOCK ALL traffic from Internal Address group to Internal Address group
 
 
-# CONCLUSION
+# Conclusion
 
 With my phone on the default network and my TV on my IoT network, I am able to AirPlay directly to my TV. Both video and audio work with no lag! One problem I run into is that the first connection to the TV fails, connecting again right after works no problem. I think this is because the TV can't start up AirPlay fast enough. 
 
@@ -68,7 +68,7 @@ I'd like to redo how I block traffic between networks. The rule was copied from 
 
 The last 4 lines of the AirPlay port group were found online but I have no idea why they work. Best I can find is that thye are used for fast streaming that I think is new for AirPlay. Without those ports, I could stream audio but no video (it would be a black screen after connecting).
 
-# SOURCES 
+# Sources 
 - https://support.apple.com/en-us/101555
 - https://service.prowise.com/hc/en-gb/articles/21514668429074-Which-ports-does-Airplay-use
 - https://www.reddit.com/r/macsysadmin/comments/a3jy2y/airplay_firewall_port_reqs/
