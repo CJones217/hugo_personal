@@ -1,7 +1,7 @@
 baseURL = 'https://www.collinjones.xyz/'
 title = 'Collin Jones'
 theme = 'risotto'
-copyright = "Copyright 2020-2025 [Collin Jones](https://collinjones.xyz)"
+copyright = "Copyright 2020-2026 [Collin Jones](https://collinjones.xyz)"
 languageCode = "en"
 # DefaultContentLanguage = "en"
 
